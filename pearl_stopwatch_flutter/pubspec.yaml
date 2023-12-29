@@ -1,0 +1,56 @@
+name: pearl_stopwatch
+description: A Stopwatch App
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  bloc_widget_arch: ^0.0.1
+  flutter_modular: ^6.3.2
+  event_bus: ^2.0.0
+  v_widgets: ^0.0.1+1
+  flutter_bloc: ^8.1.3
+  fake_async: ^1.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+  mockito: ^5.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - android/app/src/main/res/mipmap-hdpi/ic_launcher.png
+    - android/app/src/main/res/mipmap-mdpi/ic_launcher.png
+    - android/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+    - android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+    - android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+    - ios/Runner/Assets.xcassets/AppIcon.appiconset/20.png
+    - ios/Runner/Assets.xcassets/AppIcon.appiconset/29.png
+    - ios/Runner/Assets.xcassets/AppIcon.appiconset/40.png
+    - ios/Runner/Assets.xcassets/AppIcon.appiconset/50.png
+    - ios/Runner/Assets.xcassets/AppIcon.appiconset/57.png
+    - ios/Runner/Assets.xcassets/AppIcon.appiconset/58.png
+    - ios/Runner/Assets.xcassets/AppIcon.appiconset/60.png
+    - ios/Runner/Assets.xcassets/AppIcon.appiconset/72.png
+    - ios/Runner/Assets.xcassets/AppIcon.appiconset/76.png
+    - ios/Runner/Assets.xcassets/AppIcon.appiconset/80.png
+    - ios/Runner/Assets.xcassets/AppIcon.appiconset/87.png
+    - ios/Runner/Assets.xcassets/AppIcon.appiconset/100.png
+    - ios/Runner/Assets.xcassets/AppIcon.appiconset/114.png
+    - ios/Runner/Assets.xcassets/AppIcon.appiconset/120.png
+    - ios/Runner/Assets.xcassets/AppIcon.appiconset/144.png
+    - ios/Runner/Assets.xcassets/AppIcon.appiconset/152.png
+    - ios/Runner/Assets.xcassets/AppIcon.appiconset/167.png
+    - ios/Runner/Assets.xcassets/AppIcon.appiconset/180.png
+    - ios/Runner/Assets.xcassets/AppIcon.appiconset/1024.png
