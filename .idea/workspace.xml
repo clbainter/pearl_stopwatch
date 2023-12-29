@@ -9,17 +9,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8258e63e-84be-42f4-b53f-2a733c74e7b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/Android.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/app_architecture_diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/iPhone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/iPhoneLand.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tabletLand_laptopPlus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tabletPortrait.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/test_coverage_100.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="8258e63e-84be-42f4-b53f-2a733c74e7b0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,14 +54,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs" />
       <recent name="$PROJECT_DIR$/ios/Runner" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs" />
       <recent name="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset" />
       <recent name="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi" />
       <recent name="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi" />
       <recent name="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi" />
-      <recent name="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi" />
     </key>
   </component>
   <component name="RunManager" selected="Flutter Test.tests in stopwatch_bloc_test.dart">

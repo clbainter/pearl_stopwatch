@@ -7,4 +7,4 @@ which explains the use of flutter_modular, event_bus, etc. as well as how it wou
 usecase if services were introduced.
 
 ## Test Coverage 100%
-[Test Coverage](docs/test_coverage_100.png)
+![Test Coverage](docs/test_coverage_100.png)
