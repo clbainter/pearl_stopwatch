@@ -1,12 +1,26 @@
 import 'package:flutter/material.dart';
 
+/// A button with a primary style, customizable with various properties.
 class PrimaryButton extends StatelessWidget {
+  /// A callback function that will be invoked when the button is pressed.
   final VoidCallback onPressed;
+
+  /// The text displayed on the button.
   final String text;
+
+  /// The background color of the button. If not provided, defaults to [Colors.grey].
   final Color? buttonColor;
+
+  /// The text color of the button. If not provided, defaults to [Colors.black].
   final Color? textColor;
+
+  /// The style of the text displayed on the button.
   final TextStyle? textStyle;
 
+  /// Creates a [PrimaryButton].
+  ///
+  /// The [onPressed], [text], and [super.key] parameters are required.
+  /// The [buttonColor], [textColor], and [textStyle] parameters are optional.
   const PrimaryButton({
     super.key,
     required this.onPressed,
