@@ -32,8 +32,8 @@ class StopwatchButtonsLg
                 );
               },
               text: StopwatchStrings.lapButtonText,
-              textColor: AppColors.primary,
-              buttonColor: AppColors.primary,
+              textColor: AppColors.onButtonDark,
+              buttonColor: AppColors.buttonNeutral,
               textStyle: AppTextStyles.button,
             ),
             ifFalse: () => SecondaryButton(
